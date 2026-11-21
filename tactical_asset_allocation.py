@@ -29,7 +29,7 @@ import yfinance as yf
 # ============================================================
 
 START_DATE = "2012-01-01"
-END_DATE = "2026-02-01"        # yfinance treats the end date as exclusive -> data up to Jan 2026.
+END_DATE = None      
                                # Set to None to download up to the latest available date.
 RISK_FREE = 0.01               # Annual risk-free rate (approx. 3M Euribor average 2012-2026)
 INITIAL_VALUE = 100_000        # Initial portfolio value (EUR)
@@ -45,7 +45,7 @@ AUTO_ADJUST = True
 #        (this reproduces the thesis results; see the look-ahead note below).
 #   1 -> weights for month t use the signal known at the END of month t-1
 #        (no look-ahead: the realistic, tradable setup).
-SIGNAL_LAG = 0
+SIGNAL_LAG = 1
 
 # Output of the charts
 SAVE_FIGURES = True
