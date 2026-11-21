@@ -3,6 +3,7 @@
 Python code for backtesting simple tactical asset allocation strategies on a diversified five-asset-class ETF portfolio. It started as the empirical part of my Master's thesis in Corporate Finance and Financial Markets (University of Turin, Department of Management "Valter Cantino"), *"Tactical asset allocation: Costruzione e confronto di strategie di portafoglio"*, and has been adapted here as a standalone, reproducible project.
 
 **Author:** Ivan Garofalo
+/n
 
 
 ## Important: results differ from the thesis
