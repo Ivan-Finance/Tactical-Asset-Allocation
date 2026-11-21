@@ -4,6 +4,7 @@ Python code for backtesting simple tactical asset allocation strategies on a div
 
 **Author:** Ivan Garofalo<br>
 
+<br>
 
 ## Important: results differ from the thesis
 
