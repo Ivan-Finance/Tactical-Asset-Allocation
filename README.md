@@ -136,7 +136,3 @@ This project is for educational and research purposes only. Nothing here is fina
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-Ivan Garofalo - add your email or LinkedIn link here.
